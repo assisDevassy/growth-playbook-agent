@@ -1,0 +1,17 @@
+{
+  "company_name": "Youform",
+  "sells": "online form builder",
+  "to": "small businesses",
+  "team_size": 2,
+  "monthly_budget_usd": 300,
+  "tried": [],
+  "example_note": "Example run. The team size and budget are made up to show how the fit check works. They are not Youform's real numbers.",
+  "socials": {
+    "typeform.com": {
+      "x": "typeform"
+    },
+    "jotform.com": {
+      "linkedin": "https://www.linkedin.com/company/jotform"
+    }
+  }
+}

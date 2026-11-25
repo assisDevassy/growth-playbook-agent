@@ -1,0 +1,19 @@
+{
+  "company_name": "Tally",
+  "sells": "online form builder",
+  "to": "startups and small teams",
+  "team_size": 3,
+  "monthly_budget_usd": 500,
+  "tried": [
+    "guides and blog"
+  ],
+  "example_note": "Example run. The team size, budget and 'already tried' answers are made up to show how the fit check works. They are not Tally's real numbers.",
+  "socials": {
+    "typeform.com": {
+      "x": "typeform"
+    },
+    "jotform.com": {
+      "linkedin": "https://www.linkedin.com/company/jotform"
+    }
+  }
+}

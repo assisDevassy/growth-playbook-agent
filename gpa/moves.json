@@ -1,0 +1,145 @@
+{
+  "_note": "Every move the agent knows how to spot. Edit the wording, the thresholds or what a move needs, and the next run uses your version.",
+  "moves": [
+    {
+      "id": "free_tools",
+      "name": "Free tools and templates that catch searches",
+      "test": "At least 15% of the search visits we sampled land on free tool or template pages.",
+      "threshold": 15,
+      "effort": 2,
+      "needs": {
+        "team": 2,
+        "budget": 0
+      },
+      "needs_text": "someone who can build a simple web page",
+      "meaning": "Buyers rarely search for your product. They search for a small job they need done today. A free page that does that job gets found, and some of those people need you next.",
+      "this_week": "List five small tasks your buyers search for right before they need you. Build the easiest one as a free page with no login."
+    },
+    {
+      "id": "user_pages",
+      "name": "Public pages your users make, on your domain",
+      "test": "At least 3% of sampled search visits land on pages customers made with the product (public forms, pages or profiles) that live on the company's own domain.",
+      "threshold": 3,
+      "effort": 3,
+      "needs": {
+        "team": 2,
+        "budget": 0
+      },
+      "needs_text": "a product change, so someone who can build it",
+      "meaning": "Every public page a customer makes is a new page on your domain that Google can find. The product writes your search pages for you, and each visitor sees your product working.",
+      "this_week": "Check whether the pages your users publish live on your domain and can be found by Google. If they are hidden or on another domain, write up what it would take to change that, and add a small 'Made with' link to each one."
+    },
+    {
+      "id": "comparison",
+      "name": "Comparison and alternative pages",
+      "test": "Three or more comparison pages ('X alternatives', 'X vs Y') bring in search visits.",
+      "threshold": 3,
+      "effort": 1,
+      "needs": {
+        "team": 1,
+        "budget": 0
+      },
+      "needs_text": "one person who can write",
+      "meaning": "People who search for alternatives to a product are already shopping. A fair comparison page meets them at the moment they are choosing.",
+      "this_week": "Write one honest page: '[Biggest competitor] alternatives', with a table of where you are better and where you are not."
+    },
+    {
+      "id": "guides",
+      "name": "Guides that answer buyer questions",
+      "test": "At least 20% of sampled search visits land on guides or blog posts.",
+      "threshold": 20,
+      "effort": 2,
+      "needs": {
+        "team": 1,
+        "budget": 0
+      },
+      "needs_text": "one person who can write every week",
+      "meaning": "Steady search traffic comes from answering the questions buyers type into Google, one page per question.",
+      "this_week": "Take the three questions your sales calls hear most. Turn the best answer into a guide page."
+    },
+    {
+      "id": "integrations",
+      "name": "A page for every integration",
+      "test": "At least 5% of sampled search visits land on integration pages.",
+      "threshold": 5,
+      "effort": 2,
+      "needs": {
+        "team": 2,
+        "budget": 0
+      },
+      "needs_text": "integrations that already exist in your product",
+      "meaning": "People search for '[tool they use] + [what you do]'. Each integration page catches one of those searches.",
+      "this_week": "List the tools your users already connect. Give the most-used one its own page: what it does, a screenshot, how to set it up."
+    },
+    {
+      "id": "long_ads",
+      "name": "Meta ads they keep running",
+      "test": "Three or more Meta ads have been running for 30 days or longer. Ads that run for months are the ones that pay back.",
+      "threshold": 3,
+      "effort": 2,
+      "needs": {
+        "team": 1,
+        "budget": 1000
+      },
+      "needs_text": "about $1,000 a month to test ads",
+      "meaning": "Companies switch off ads that lose money. An ad still running after a month or more is the closest public proof of an ad that works.",
+      "this_week": "Open the competitors' oldest ads (links below). Write down the hook, the offer and the format, then draft two ads of your own in the same shape."
+    },
+    {
+      "id": "affiliates",
+      "name": "An affiliate program",
+      "test": "An affiliate tool is installed on the site, or an affiliate page ranks in Google.",
+      "threshold": 1,
+      "effort": 1,
+      "needs": {
+        "team": 1,
+        "budget": 0
+      },
+      "needs_text": "nothing up front: affiliates are paid only when a customer pays",
+      "meaning": "Affiliates cost nothing until they bring a paying customer, so this is growth you only pay for when it works.",
+      "this_week": "Set up an affiliate program with recurring commission. Send it to your ten happiest customers first."
+    },
+    {
+      "id": "attention",
+      "name": "Growth from attention, not search",
+      "test": "Half or more of its search visits are people typing the brand name, so most buyers heard about it somewhere else first.",
+      "threshold": 50,
+      "effort": 1,
+      "needs": {
+        "team": 1,
+        "budget": 0
+      },
+      "needs_text": "a founder or team member willing to post in public",
+      "meaning": "When most searches are for the name itself, buyers found the company through posts, word of mouth or communities, then searched to sign up. Google is the checkout, not the shop window.",
+      "this_week": "Post one thing you learned building the product, with a real number in it. Answer every reply yourself."
+    },
+    {
+      "id": "linkedin",
+      "name": "A steady LinkedIn page",
+      "test": "The company page posts at least twice a week.",
+      "threshold": 2,
+      "effort": 1,
+      "needs": {
+        "team": 1,
+        "budget": 0
+      },
+      "needs_text": "about an hour a week",
+      "meaning": "A page that posts every week stays in front of the people who are not buying yet, so you are the name they remember when they are.",
+      "this_week": "Plan four posts: one customer result, one product update, one lesson, one opinion about your market. Schedule two this week."
+    },
+    {
+      "id": "ai_answers",
+      "name": "Getting named in ChatGPT answers",
+      "test": "ChatGPT names the company in at least one of the three buyer questions we asked.",
+      "threshold": 1,
+      "effort": 2,
+      "needs": {
+        "team": 1,
+        "budget": 0
+      },
+      "needs_text": "one person who can write and pitch",
+      "meaning": "More buyers now ask ChatGPT for a shortlist before they ever visit Google. If you are not named, you are not on the shortlist.",
+      "this_week": "Ask ChatGPT the three questions below yourself. Look at the pages it cites, then pitch each one to include you, and publish a page that answers the question directly."
+    }
+  ]
+}

@@ -1,0 +1,2045 @@
+{
+  "status": "done",
+  "date": "2026-11-25",
+  "site": "youform.com",
+  "answers": {
+    "company_name": "Youform",
+    "sells": "online form builder",
+    "to": "small businesses",
+    "team_size": 2,
+    "monthly_budget_usd": 300,
+    "tried": [],
+    "example_note": "Example run. The team size and budget are made up to show how the fit check works. They are not Youform's real numbers.",
+    "socials": {
+      "typeform.com": {
+        "x": "typeform"
+      },
+      "jotform.com": {
+        "linkedin": "https://www.linkedin.com/company/jotform"
+      }
+    }
+  },
+  "you": {
+    "domain": "youform.com",
+    "brand": "youform",
+    "name": "Youform",
+    "site": {
+      "domain": "youform.com",
+      "title": "Youform \u2013 Create Forms, Surveys & Quizzes for Free",
+      "description": "Make beautiful forms, surveys, and quizzes that feel like you. Unlimited forms and responses for free. No code. No credit card.",
+      "technologies": [
+        "Cloudflare",
+        "Youform"
+      ],
+      "affiliate_tools": [],
+      "ad_pixels": [],
+      "linkedin_url": "https://www.linkedin.com/company/youform.com/",
+      "x_handle": null
+    },
+    "socials_source": {
+      "linkedin": "site",
+      "x": null
+    },
+    "search": {
+      "est_monthly_visits": 4732,
+      "keywords_total": 1296,
+      "keywords_sampled": 200,
+      "brand_share": 13.8,
+      "type_share": {
+        "home page": 70.2,
+        "product pages": 10.3,
+        "free tools": 8.7,
+        "other pages": 6.0,
+        "templates": 2.0,
+        "guides and blog": 1.9,
+        "comparison": 0.8,
+        "integrations": 0.0
+      },
+      "top_pages": [
+        {
+          "url": "https://youform.com/",
+          "type": "home page",
+          "etv": 3169,
+          "keywords": 17
+        },
+        {
+          "url": "https://youform.com/free-tools/google-form-qr-code/",
+          "type": "free tools",
+          "etv": 307,
+          "keywords": 41
+        },
+        {
+          "url": "https://youform.com/google-forms/custom-domain-in-google-forms/",
+          "type": "other pages",
+          "etv": 180,
+          "keywords": 2
+        },
+        {
+          "url": "https://youform.com/online-quiz-builder/",
+          "type": "product pages",
+          "etv": 173,
+          "keywords": 23
+        },
+        {
+          "url": "https://youform.com/online-form-builder/",
+          "type": "product pages",
+          "etv": 163,
+          "keywords": 17
+        },
+        {
+          "url": "https://youform.com/quiz-maker/multiple-choice/",
+          "type": "product pages",
+          "etv": 126,
+          "keywords": 14
+        },
+        {
+          "url": "https://help.youform.com/multiple-choice-question-with-other-options-xbjo7",
+          "type": "other pages",
+          "etv": 82,
+          "keywords": 5
+        },
+        {
+          "url": "https://youform.com/ai-trivia-quiz-generator/",
+          "type": "free tools",
+          "etv": 59,
+          "keywords": 2
+        },
+        {
+          "url": "https://youform.com/blog/google-forms-searchable-dropdown-cm0qnsmvn00j0syrxh9idh8f2/",
+          "type": "guides and blog",
+          "etv": 53,
+          "keywords": 10
+        },
+        {
+          "url": "https://app.youform.com/",
+          "type": "home page",
+          "etv": 37,
+          "keywords": 2
+        }
+      ],
+      "pages_by_type": {
+        "home page": [
+          {
+            "url": "https://youform.com/",
+            "type": "home page",
+            "etv": 3169,
+            "keywords": 17
+          },
+          {
+            "url": "https://app.youform.com/",
+            "type": "home page",
+            "etv": 37,
+            "keywords": 2
+          }
+        ],
+        "other pages": [
+          {
+            "url": "https://youform.com/google-forms/custom-domain-in-google-forms/",
+            "type": "other pages",
+            "etv": 180,
+            "keywords": 2
+          },
+          {
+            "url": "https://help.youform.com/multiple-choice-question-with-other-options-xbjo7",
+            "type": "other pages",
+            "etv": 82,
+            "keywords": 5
+          },
+          {
+            "url": "https://youform.com/likert-scale/",
+            "type": "other pages",
+            "etv": 7,
+            "keywords": 4
+          },
+          {
+            "url": "https://youform.com/glossary/brand-awareness-survey/",
+            "type": "other pages",
+            "etv": 5,
+            "keywords": 1
+          },
+          {
+            "url": "https://youform.com/glossary/biased-question/",
+            "type": "other pages",
+            "etv": 2,
+            "keywords": 1
+          }
+        ],
+        "product pages": [
+          {
+            "url": "https://youform.com/online-quiz-builder/",
+            "type": "product pages",
+            "etv": 173,
+            "keywords": 23
+          },
+          {
+            "url": "https://youform.com/online-form-builder/",
+            "type": "product pages",
+            "etv": 163,
+            "keywords": 17
+          },
+          {
+            "url": "https://youform.com/quiz-maker/multiple-choice/",
+            "type": "product pages",
+            "etv": 126,
+            "keywords": 14
+          },
+          {
+            "url": "https://youform.com/online-survey-builder/",
+            "type": "product pages",
+            "etv": 8,
+            "keywords": 4
+          }
+        ],
+        "free tools": [
+          {
+            "url": "https://youform.com/free-tools/google-form-qr-code/",
+            "type": "free tools",
+            "etv": 307,
+            "keywords": 41
+          },
+          {
+            "url": "https://youform.com/ai-trivia-quiz-generator/",
+            "type": "free tools",
+            "etv": 59,
+            "keywords": 2
+          },
+          {
+            "url": "https://youform.com/ai-quiz-maker/",
+            "type": "free tools",
+            "etv": 22,
+            "keywords": 6
+          },
+          {
+            "url": "https://youform.com/free-tools/giveaway-picker/",
+            "type": "free tools",
+            "etv": 5,
+            "keywords": 1
+          },
+          {
+            "url": "https://youform.com/ai-personality-quiz-maker/",
+            "type": "free tools",
+            "etv": 3,
+            "keywords": 1
+          }
+        ],
+        "comparison": [
+          {
+            "url": "https://youform.com/fillout-alternative/",
+            "type": "comparison",
+            "etv": 34,
+            "keywords": 2
+          }
+        ],
+        "guides and blog": [
+          {
+            "url": "https://youform.com/blog/google-forms-searchable-dropdown-cm0qnsmvn00j0syrxh9idh8f2/",
+            "type": "guides and blog",
+            "etv": 53,
+            "keywords": 10
+          },
+          {
+            "url": "https://youform.com/blog/double-barreled-questions/",
+            "type": "guides and blog",
+            "etv": 19,
+            "keywords": 6
+          },
+          {
+            "url": "https://youform.com/blog/branding-questionnaire/",
+            "type": "guides and blog",
+            "etv": 7,
+            "keywords": 1
+          },
+          {
+            "url": "https://youform.com/blog/how-did-you-hear-about-us-survey/",
+            "type": "guides and blog",
+            "etv": 3,
+            "keywords": 2
+          },
+          {
+            "url": "https://help.youform.com/how-to-create-a-signature-form-8h2qa",
+            "type": "guides and blog",
+            "etv": 2,
+            "keywords": 1
+          }
+        ],
+        "templates": [
+          {
+            "url": "https://youform.com/templates/t/multiple-choice-quiz-template/",
+            "type": "templates",
+            "etv": 14,
+            "keywords": 3
+          },
+          {
+            "url": "https://youform.com/templates/c/forms/application/",
+            "type": "templates",
+            "etv": 12,
+            "keywords": 3
+          },
+          {
+            "url": "https://youform.com/templates/c/forms/contact/",
+            "type": "templates",
+            "etv": 12,
+            "keywords": 4
+          },
+          {
+            "url": "https://youform.com/templates/c/quizzes/popular/",
+            "type": "templates",
+            "etv": 10,
+            "keywords": 4
+          },
+          {
+            "url": "https://youform.com/templates/c/surveys/",
+            "type": "templates",
+            "etv": 9,
+            "keywords": 3
+          }
+        ],
+        "integrations": [
+          {
+            "url": "https://youform.com/integrations/zapier/",
+            "type": "integrations",
+            "etv": 1,
+            "keywords": 1
+          }
+        ]
+      },
+      "pages_count_by_type": {
+        "home page": 2,
+        "other pages": 5,
+        "product pages": 4,
+        "free tools": 5,
+        "comparison": 1,
+        "guides and blog": 7,
+        "templates": 17,
+        "integrations": 1
+      }
+    },
+    "ads": {
+      "active_ads": 0,
+      "running_30_days": 0,
+      "oldest": null
+    },
+    "x": null,
+    "x_handle": null,
+    "linkedin": {
+      "posts": 10,
+      "first": "2026-11-21",
+      "last": "2026-11-24",
+      "per_week": 10.0
+    },
+    "linkedin_url": "https://www.linkedin.com/company/youform.com/",
+    "ai": {
+      "asked": 3,
+      "named_in": []
+    }
+  },
+  "competitors": [
+    {
+      "domain": "jotform.com",
+      "brand": "jotform",
+      "name": "Jotform",
+      "site": {
+        "domain": "jotform.com",
+        "title": "Jotform: Free Online Form Builder | Create Forms in Seconds",
+        "description": "Create forms and surveys easily with Jotform's drag-and-drop form builder. Start collecting registrations, applications, orders, and payments for free.",
+        "technologies": [
+          "Google Cloud",
+          "Google Cloud CDN",
+          "HTTP/3",
+          "Jotform"
+        ],
+        "affiliate_tools": [],
+        "ad_pixels": [],
+        "linkedin_url": null,
+        "x_handle": "jotform"
+      },
+      "socials_source": {
+        "linkedin": "given",
+        "x": "site"
+      },
+      "search": {
+        "est_monthly_visits": 261042,
+        "keywords_total": 191805,
+        "keywords_sampled": 200,
+        "brand_share": 13.1,
+        "type_share": {
+          "free tools": 34.6,
+          "templates": 17.8,
+          "user-made pages": 12.8,
+          "guides and blog": 7.7,
+          "comparison": 6.2,
+          "home page": 5.0,
+          "product pages": 4.5,
+          "other pages": 4.3,
+          "integrations": 3.8,
+          "login": 1.9,
+          "pricing": 1.5
+        },
+        "top_pages": [
+          {
+            "url": "https://www.jotform.com/qr-code-generator/",
+            "type": "free tools",
+            "etv": 17309,
+            "keywords": 14
+          },
+          {
+            "url": "https://www.jotform.com/pdf-templates/pay-stub-template",
+            "type": "templates",
+            "etv": 5506,
+            "keywords": 9
+          },
+          {
+            "url": "https://www.jotform.com/pdf/merge/",
+            "type": "free tools",
+            "etv": 4886,
+            "keywords": 9
+          },
+          {
+            "url": "https://www.jotform.com/",
+            "type": "home page",
+            "etv": 3686,
+            "keywords": 7
+          },
+          {
+            "url": "https://www.jotform.com/formstack-alternative/?acc=main&adgroup=164991406238&matchtype=p&network=g&device=c&devicemodel=&extension_id=&feeditemid=&target_id=kwd-23647877848&target=&loc_interest=&loc_physical=2840&placement=&utm_source=adwords&utm_campaign=21433268312&utm_medium=cpc&utm_term=formstack&utm_content=704557186255&utm_scp=&utm_cgroup=&gad_source=1&gad_campaignid=21433268312&gbraid=0AAAAAC-d9ak7FCsoat3olBxj4GpumYPJ-&gclid=EAIaIQobChMI_qu04Jz0lwMVTJaDBx2EjB4YEAAYAiAAEgKOQ_D_BwE",
+            "type": "comparison",
+            "etv": 3663,
+            "keywords": 1
+          },
+          {
+            "url": "https://render.jotform.com/262134348777061",
+            "type": "user-made pages",
+            "etv": 2698,
+            "keywords": 3
+          },
+          {
+            "url": "https://www.jotform.com/products/apps/",
+            "type": "integrations",
+            "etv": 2568,
+            "keywords": 6
+          },
+          {
+            "url": "https://www.jotform.com/pdf/compress/",
+            "type": "free tools",
+            "etv": 2421,
+            "keywords": 4
+          },
+          {
+            "url": "https://www.jotform.com/ai/quiz-generator/",
+            "type": "free tools",
+            "etv": 2217,
+            "keywords": 2
+          },
+          {
+            "url": "https://www.jotform.com/widgets/math-captcha",
+            "type": "product pages",
+            "etv": 2114,
+            "keywords": 1
+          }
+        ],
+        "pages_by_type": {
+          "comparison": [
+            {
+              "url": "https://www.jotform.com/formstack-alternative/?acc=main&adgroup=164991406238&matchtype=p&network=g&device=c&devicemodel=&extension_id=&feeditemid=&target_id=kwd-23647877848&target=&loc_interest=&loc_physical=2840&placement=&utm_source=adwords&utm_campaign=21433268312&utm_medium=cpc&utm_term=formstack&utm_content=704557186255&utm_scp=&utm_cgroup=&gad_source=1&gad_campaignid=21433268312&gbraid=0AAAAAC-d9ak7FCsoat3olBxj4GpumYPJ-&gclid=EAIaIQobChMI_qu04Jz0lwMVTJaDBx2EjB4YEAAYAiAAEgKOQ_D_BwE",
+              "type": "comparison",
+              "etv": 3663,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.jotform.com/blog/quiz-vs-test/",
+              "type": "comparison",
+              "etv": 1593,
+              "keywords": 3
+            },
+            {
+              "url": "https://www.jotform.com/nonprofit/signup-com-vs-signupgenius/",
+              "type": "comparison",
+              "etv": 657,
+              "keywords": 1
+            }
+          ],
+          "free tools": [
+            {
+              "url": "https://www.jotform.com/qr-code-generator/",
+              "type": "free tools",
+              "etv": 17309,
+              "keywords": 14
+            },
+            {
+              "url": "https://www.jotform.com/pdf/merge/",
+              "type": "free tools",
+              "etv": 4886,
+              "keywords": 9
+            },
+            {
+              "url": "https://www.jotform.com/pdf/compress/",
+              "type": "free tools",
+              "etv": 2421,
+              "keywords": 4
+            },
+            {
+              "url": "https://www.jotform.com/ai/quiz-generator/",
+              "type": "free tools",
+              "etv": 2217,
+              "keywords": 2
+            },
+            {
+              "url": "https://www.jotform.com/blog/50-free-fonts-for-professional-designs/",
+              "type": "free tools",
+              "etv": 2002,
+              "keywords": 1
+            }
+          ],
+          "user-made pages": [
+            {
+              "url": "https://render.jotform.com/262134348777061",
+              "type": "user-made pages",
+              "etv": 2698,
+              "keywords": 3
+            },
+            {
+              "url": "https://form.jotform.com/241708453160149",
+              "type": "user-made pages",
+              "etv": 1604,
+              "keywords": 1
+            },
+            {
+              "url": "https://form.jotform.com/231073712909051",
+              "type": "user-made pages",
+              "etv": 1139,
+              "keywords": 3
+            },
+            {
+              "url": "https://form.jotform.com/200785046779062",
+              "type": "user-made pages",
+              "etv": 744,
+              "keywords": 1
+            },
+            {
+              "url": "https://form.jotform.com/210124496904150",
+              "type": "user-made pages",
+              "etv": 606,
+              "keywords": 1
+            }
+          ],
+          "product pages": [
+            {
+              "url": "https://www.jotform.com/widgets/math-captcha",
+              "type": "product pages",
+              "etv": 2114,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.jotform.com/products/pdf-editor/",
+              "type": "product pages",
+              "etv": 625,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.jotform.com/widgets/draw-io-embedder",
+              "type": "product pages",
+              "etv": 514,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.jotform.com/quiz-maker/",
+              "type": "product pages",
+              "etv": 299,
+              "keywords": 2
+            },
+            {
+              "url": "https://www.jotform.com/order-form-creator/",
+              "type": "product pages",
+              "etv": 231,
+              "keywords": 1
+            }
+          ],
+          "home page": [
+            {
+              "url": "https://www.jotform.com/",
+              "type": "home page",
+              "etv": 3686,
+              "keywords": 7
+            },
+            {
+              "url": "https://dadeschools.jotform.com/",
+              "type": "home page",
+              "etv": 1120,
+              "keywords": 2
+            }
+          ],
+          "guides and blog": [
+            {
+              "url": "https://www.jotform.com/products/sign/what-is-docusign-and-how-does-it-work/",
+              "type": "guides and blog",
+              "etv": 1773,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.jotform.com/weebly-guide/",
+              "type": "guides and blog",
+              "etv": 1649,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.jotform.com/blog/fall-trivia-questions/",
+              "type": "guides and blog",
+              "etv": 1124,
+              "keywords": 2
+            },
+            {
+              "url": "https://www.jotform.com/google-forms/how-to-make-an-answer-key-in-google-forms/",
+              "type": "guides and blog",
+              "etv": 580,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.jotform.com/blog/webdesign-takeaway-40-css-buttons-tutorials-and-code-snippets-88778/",
+              "type": "guides and blog",
+              "etv": 566,
+              "keywords": 1
+            }
+          ],
+          "templates": [
+            {
+              "url": "https://www.jotform.com/pdf-templates/pay-stub-template",
+              "type": "templates",
+              "etv": 5506,
+              "keywords": 9
+            },
+            {
+              "url": "https://www.jotform.com/form-templates/discord-staff-application",
+              "type": "templates",
+              "etv": 1247,
+              "keywords": 2
+            },
+            {
+              "url": "https://www.jotform.com/form-templates/category/order-form",
+              "type": "templates",
+              "etv": 1114,
+              "keywords": 3
+            },
+            {
+              "url": "https://www.jotform.com/form-templates/category/quiz-template",
+              "type": "templates",
+              "etv": 970,
+              "keywords": 5
+            },
+            {
+              "url": "https://www.jotform.com/form-templates/category/application-form",
+              "type": "templates",
+              "etv": 829,
+              "keywords": 5
+            }
+          ],
+          "integrations": [
+            {
+              "url": "https://www.jotform.com/products/apps/",
+              "type": "integrations",
+              "etv": 2568,
+              "keywords": 6
+            },
+            {
+              "url": "https://www.jotform.com/products/apps/features/",
+              "type": "integrations",
+              "etv": 1048,
+              "keywords": 1
+            }
+          ],
+          "pricing": [
+            {
+              "url": "https://www.jotform.com/pricing/",
+              "type": "pricing",
+              "etv": 1474,
+              "keywords": 2
+            }
+          ],
+          "other pages": [
+            {
+              "url": "https://www.jotform.com/google-forms/response-validation-google-forms/",
+              "type": "other pages",
+              "etv": 814,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.jotform.com/intake-form/",
+              "type": "other pages",
+              "etv": 687,
+              "keywords": 2
+            },
+            {
+              "url": "https://www.jotform.com/wix-forms/?acc=main&adgroup=196797938530&matchtype=p&network=g&device=c&devicemodel=&extension_id=&feeditemid=&target_id=kwd-815793526038&target=&loc_interest=&loc_physical=2840&placement=&utm_source=adwords&utm_campaign=24402826234&utm_medium=cpc&utm_term=wix%20payment%20form&utm_content=829646478218&utm_scp=&utm_cgroup=&gad_source=1&gad_campaignid=24402826234&gbraid=0AAAAAC-d9aniseE55Kuq48mR6Pf0EjP-h&gclid=EAIaIQobChMIvuWMgcr-lwMVe05IAB3mIigNEAAYASAAEgIHi_D_BwE",
+              "type": "other pages",
+              "etv": 512,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.jotform.com/google-forms/google-form-submit-another-response/",
+              "type": "other pages",
+              "etv": 469,
+              "keywords": 2
+            },
+            {
+              "url": "https://www.jotform.com/surveys/",
+              "type": "other pages",
+              "etv": 323,
+              "keywords": 2
+            }
+          ],
+          "login": [
+            {
+              "url": "https://www.jotform.com/login/",
+              "type": "login",
+              "etv": 1544,
+              "keywords": 3
+            },
+            {
+              "url": "https://www.jotform.com/form-templates/checkbook-register-form",
+              "type": "login",
+              "etv": 257,
+              "keywords": 1
+            }
+          ]
+        },
+        "pages_count_by_type": {
+          "comparison": 3,
+          "free tools": 21,
+          "user-made pages": 27,
+          "product pages": 8,
+          "home page": 2,
+          "guides and blog": 13,
+          "templates": 33,
+          "integrations": 2,
+          "pricing": 1,
+          "other pages": 11,
+          "login": 2
+        }
+      },
+      "ads": {
+        "active_ads": 30,
+        "running_30_days": 10,
+        "oldest": {
+          "started": "2026-06-11",
+          "days": 167,
+          "text": "Comment AI for the link to automate your Instagram for FREE. DMs, Posts, Stories and Comments handled automatically so creators can make sal",
+          "url": "https://www.facebook.com/ads/library?id=999349642827548"
+        }
+      },
+      "x": {
+        "posts": 0,
+        "last_post": "2025-09-23"
+      },
+      "x_handle": "jotform",
+      "linkedin": {
+        "posts": 10,
+        "first": "2026-10-20",
+        "last": "2026-11-20",
+        "per_week": 1.9
+      },
+      "linkedin_url": "https://www.linkedin.com/company/jotform",
+      "ai": {
+        "asked": 3,
+        "named_in": [
+          "What is the best online form builder?",
+          "What are the best alternatives to Youform?",
+          "What is the best online form builder for small businesses?"
+        ]
+      }
+    },
+    {
+      "domain": "typeform.com",
+      "brand": "typeform",
+      "name": "Typeform",
+      "site": {
+        "domain": "typeform.com",
+        "title": "Form Builder with AI Automation | Typeform",
+        "description": "Build AI-powered forms that get 3.5x more data \u2014 then trigger automated workflows to enrich leads, follow up, and grow revenue. No code. Start free.",
+        "technologies": [
+          "Amazon CloudFront",
+          "Amazon Web Services",
+          "Cloudflare",
+          "Google Font API",
+          "Google Hosted Libraries",
+          "Google Tag Manager",
+          "OneTrust",
+          "Typeform",
+          "Webflow",
+          "Wistia",
+          "jQuery",
+          "jsDelivr"
+        ],
+        "affiliate_tools": [],
+        "ad_pixels": [],
+        "linkedin_url": "https://www.linkedin.com/company/typeform-/",
+        "x_handle": null
+      },
+      "socials_source": {
+        "linkedin": "site",
+        "x": "given"
+      },
+      "search": {
+        "est_monthly_visits": 114206,
+        "keywords_total": 22181,
+        "keywords_sampled": 200,
+        "brand_share": 6.3,
+        "type_share": {
+          "guides and blog": 75.1,
+          "product pages": 9.4,
+          "home page": 6.6,
+          "templates": 5.0,
+          "other pages": 2.0,
+          "user-made pages": 1.8,
+          "pricing": 0.2,
+          "free tools": 0.1
+        },
+        "top_pages": [
+          {
+            "url": "https://www.typeform.com/blog/what-is-a-dichotomous-question-examples-and-when-to-ask-one",
+            "type": "guides and blog",
+            "etv": 66671,
+            "keywords": 15
+          },
+          {
+            "url": "https://www.typeform.com/forms",
+            "type": "product pages",
+            "etv": 8161,
+            "keywords": 14
+          },
+          {
+            "url": "https://www.typeform.com/",
+            "type": "home page",
+            "etv": 5761,
+            "keywords": 9
+          },
+          {
+            "url": "https://www.typeform.com/templates-sub-category/job-application",
+            "type": "templates",
+            "etv": 2752,
+            "keywords": 2
+          },
+          {
+            "url": "https://www.typeform.com/blog/black-facts",
+            "type": "guides and blog",
+            "etv": 1458,
+            "keywords": 17
+          },
+          {
+            "url": "https://www.typeform.com/templates",
+            "type": "templates",
+            "etv": 1028,
+            "keywords": 1
+          },
+          {
+            "url": "https://www.typeform.com/blog/30-random-questions-to-ask-fun-deep-and-conversation",
+            "type": "guides and blog",
+            "etv": 797,
+            "keywords": 4
+          },
+          {
+            "url": "https://help.typeform.com/hc/es/articles/360052432831-Muestra-a-los-usuarios-cu%C3%A1l-es-la-respuesta-correcta",
+            "type": "guides and blog",
+            "etv": 769,
+            "keywords": 1
+          },
+          {
+            "url": "https://admin.typeform.com/",
+            "type": "home page",
+            "etv": 753,
+            "keywords": 7
+          },
+          {
+            "url": "https://www.typeform.com/blog/ad-campaigns",
+            "type": "guides and blog",
+            "etv": 685,
+            "keywords": 8
+          }
+        ],
+        "pages_by_type": {
+          "guides and blog": [
+            {
+              "url": "https://www.typeform.com/blog/what-is-a-dichotomous-question-examples-and-when-to-ask-one",
+              "type": "guides and blog",
+              "etv": 66671,
+              "keywords": 15
+            },
+            {
+              "url": "https://www.typeform.com/blog/black-facts",
+              "type": "guides and blog",
+              "etv": 1458,
+              "keywords": 17
+            },
+            {
+              "url": "https://www.typeform.com/blog/30-random-questions-to-ask-fun-deep-and-conversation",
+              "type": "guides and blog",
+              "etv": 797,
+              "keywords": 4
+            },
+            {
+              "url": "https://help.typeform.com/hc/es/articles/360052432831-Muestra-a-los-usuarios-cu%C3%A1l-es-la-respuesta-correcta",
+              "type": "guides and blog",
+              "etv": 769,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.typeform.com/blog/ad-campaigns",
+              "type": "guides and blog",
+              "etv": 685,
+              "keywords": 8
+            }
+          ],
+          "product pages": [
+            {
+              "url": "https://www.typeform.com/forms",
+              "type": "product pages",
+              "etv": 8161,
+              "keywords": 14
+            },
+            {
+              "url": "https://www.typeform.com/test-maker",
+              "type": "product pages",
+              "etv": 667,
+              "keywords": 6
+            },
+            {
+              "url": "https://www.typeform.com/try/survey-builder",
+              "type": "product pages",
+              "etv": 485,
+              "keywords": 2
+            }
+          ],
+          "home page": [
+            {
+              "url": "https://www.typeform.com/",
+              "type": "home page",
+              "etv": 5761,
+              "keywords": 9
+            },
+            {
+              "url": "https://admin.typeform.com/",
+              "type": "home page",
+              "etv": 753,
+              "keywords": 7
+            }
+          ],
+          "templates": [
+            {
+              "url": "https://www.typeform.com/templates-sub-category/job-application",
+              "type": "templates",
+              "etv": 2752,
+              "keywords": 2
+            },
+            {
+              "url": "https://www.typeform.com/templates",
+              "type": "templates",
+              "etv": 1028,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.typeform.com/templates/fb-survey-questions",
+              "type": "templates",
+              "etv": 141,
+              "keywords": 2
+            },
+            {
+              "url": "https://www.typeform.com/templates/client-intake-form-template",
+              "type": "templates",
+              "etv": 110,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.typeform.com/templates/anonymous-feedback-form-template",
+              "type": "templates",
+              "etv": 109,
+              "keywords": 1
+            }
+          ],
+          "user-made pages": [
+            {
+              "url": "https://0z0g1.typeform.com/to/cVMXbdhw",
+              "type": "user-made pages",
+              "etv": 508,
+              "keywords": 1
+            },
+            {
+              "url": "https://ufaqjhi02v0.typeform.com/to/KKg4TeIw",
+              "type": "user-made pages",
+              "etv": 292,
+              "keywords": 1
+            },
+            {
+              "url": "https://form.typeform.com/to/snS31y1t",
+              "type": "user-made pages",
+              "etv": 251,
+              "keywords": 4
+            },
+            {
+              "url": "https://bergesinstitute.typeform.com/to/xmpubH",
+              "type": "user-made pages",
+              "etv": 115,
+              "keywords": 2
+            },
+            {
+              "url": "https://meto-intl.typeform.com/to/Z6Y24At3",
+              "type": "user-made pages",
+              "etv": 108,
+              "keywords": 1
+            }
+          ],
+          "other pages": [
+            {
+              "url": "https://www.typeform.com/quizzes",
+              "type": "other pages",
+              "etv": 540,
+              "keywords": 6
+            },
+            {
+              "url": "https://community.typeform.com/build-your-typeform-7/remove-type-your-answer-here-from-short-text-5535",
+              "type": "other pages",
+              "etv": 431,
+              "keywords": 2
+            },
+            {
+              "url": "https://www.typeform.com/brand",
+              "type": "other pages",
+              "etv": 143,
+              "keywords": 2
+            },
+            {
+              "url": "https://community.typeform.com/build-your-typeform-7/yes-no-question-plus-if-no-please-tell-us-why-option-12641",
+              "type": "other pages",
+              "etv": 124,
+              "keywords": 2
+            },
+            {
+              "url": "https://www.typeform.com/surveys",
+              "type": "other pages",
+              "etv": 120,
+              "keywords": 2
+            }
+          ],
+          "pricing": [
+            {
+              "url": "https://www.typeform.com/pricing",
+              "type": "pricing",
+              "etv": 164,
+              "keywords": 2
+            }
+          ],
+          "free tools": [
+            {
+              "url": "https://help.typeform.com/hc/en-us/articles/360032972852-Free-plan",
+              "type": "free tools",
+              "etv": 80,
+              "keywords": 2
+            }
+          ]
+        },
+        "pages_count_by_type": {
+          "guides and blog": 24,
+          "product pages": 3,
+          "home page": 2,
+          "templates": 22,
+          "user-made pages": 13,
+          "other pages": 14,
+          "pricing": 1,
+          "free tools": 1
+        }
+      },
+      "ads": {
+        "active_ads": 30,
+        "running_30_days": 16,
+        "oldest": {
+          "started": "2026-09-22",
+          "days": 64,
+          "text": "Capture, engage, and convert customers through automated workflows. All in Typeform.",
+          "url": "https://www.facebook.com/ads/library?id=1611125447346012"
+        }
+      },
+      "x": {
+        "posts": 0,
+        "last_post": "2025-01-22"
+      },
+      "x_handle": "typeform",
+      "linkedin": {
+        "posts": 1,
+        "first": "2026-11-20",
+        "last": "2026-11-20",
+        "per_week": null
+      },
+      "linkedin_url": "https://www.linkedin.com/company/typeform-/",
+      "ai": {
+        "asked": 3,
+        "named_in": [
+          "What is the best online form builder?",
+          "What are the best alternatives to Youform?",
+          "What is the best online form builder for small businesses?"
+        ]
+      }
+    },
+    {
+      "domain": "fillout.com",
+      "brand": "fillout",
+      "name": "Fillout",
+      "site": {
+        "domain": "fillout.com",
+        "title": "Fillout | Forms that do it all",
+        "description": "Create powerful forms, surveys and quizzes your audience will answer. Store responses directly where you need them.",
+        "technologies": [
+          "Fillout",
+          "Next.js",
+          "React",
+          "Vercel"
+        ],
+        "affiliate_tools": [],
+        "ad_pixels": [],
+        "linkedin_url": null,
+        "x_handle": "fillout"
+      },
+      "socials_source": {
+        "linkedin": null,
+        "x": "site"
+      },
+      "search": {
+        "est_monthly_visits": 7206,
+        "keywords_total": 5406,
+        "keywords_sampled": 200,
+        "brand_share": 21.3,
+        "type_share": {
+          "free tools": 26.7,
+          "templates": 26.2,
+          "home page": 15.0,
+          "product pages": 12.9,
+          "login": 5.4,
+          "other pages": 5.1,
+          "guides and blog": 3.8,
+          "help docs": 3.4,
+          "comparison": 0.7,
+          "pricing": 0.7
+        },
+        "top_pages": [
+          {
+            "url": "https://www.fillout.com/ai-quiz-maker",
+            "type": "free tools",
+            "etv": 1131,
+            "keywords": 35
+          },
+          {
+            "url": "https://www.fillout.com/",
+            "type": "home page",
+            "etv": 765,
+            "keywords": 8
+          },
+          {
+            "url": "https://www.fillout.com/ai-form-builder",
+            "type": "product pages",
+            "etv": 679,
+            "keywords": 13
+          },
+          {
+            "url": "https://build.fillout.com/fillout/login",
+            "type": "login",
+            "etv": 248,
+            "keywords": 2
+          },
+          {
+            "url": "https://www.fillout.com/templates/job-application",
+            "type": "templates",
+            "etv": 228,
+            "keywords": 9
+          },
+          {
+            "url": "https://www.fillout.com/templates/business-analytics-request-form",
+            "type": "templates",
+            "etv": 225,
+            "keywords": 1
+          },
+          {
+            "url": "https://www.fillout.com/ai-signature-generator",
+            "type": "free tools",
+            "etv": 184,
+            "keywords": 7
+          },
+          {
+            "url": "https://www.fillout.com/google-forms-customizer/add-radio-button-to-google-forms",
+            "type": "other pages",
+            "etv": 130,
+            "keywords": 4
+          },
+          {
+            "url": "https://www.fillout.com/blog/fillable-forms-with-google-docs",
+            "type": "help docs",
+            "etv": 105,
+            "keywords": 1
+          },
+          {
+            "url": "https://www.fillout.com/templates/client-intake-form",
+            "type": "templates",
+            "etv": 87,
+            "keywords": 3
+          }
+        ],
+        "pages_by_type": {
+          "free tools": [
+            {
+              "url": "https://www.fillout.com/ai-quiz-maker",
+              "type": "free tools",
+              "etv": 1131,
+              "keywords": 35
+            },
+            {
+              "url": "https://www.fillout.com/ai-signature-generator",
+              "type": "free tools",
+              "etv": 184,
+              "keywords": 7
+            },
+            {
+              "url": "https://www.fillout.com/ai-survey-maker",
+              "type": "free tools",
+              "etv": 77,
+              "keywords": 3
+            },
+            {
+              "url": "https://www.fillout.com/es/templates/calorie-calculator",
+              "type": "free tools",
+              "etv": 9,
+              "keywords": 1
+            }
+          ],
+          "product pages": [
+            {
+              "url": "https://www.fillout.com/ai-form-builder",
+              "type": "product pages",
+              "etv": 679,
+              "keywords": 13
+            }
+          ],
+          "home page": [
+            {
+              "url": "https://www.fillout.com/",
+              "type": "home page",
+              "etv": 765,
+              "keywords": 8
+            },
+            {
+              "url": "https://build.fillout.com/",
+              "type": "home page",
+              "etv": 19,
+              "keywords": 2
+            }
+          ],
+          "templates": [
+            {
+              "url": "https://www.fillout.com/templates/job-application",
+              "type": "templates",
+              "etv": 228,
+              "keywords": 9
+            },
+            {
+              "url": "https://www.fillout.com/templates/business-analytics-request-form",
+              "type": "templates",
+              "etv": 225,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.fillout.com/templates/client-intake-form",
+              "type": "templates",
+              "etv": 87,
+              "keywords": 3
+            },
+            {
+              "url": "https://www.fillout.com/templates/categories/quizzes",
+              "type": "templates",
+              "etv": 64,
+              "keywords": 5
+            },
+            {
+              "url": "https://www.fillout.com/templates",
+              "type": "templates",
+              "etv": 62,
+              "keywords": 5
+            }
+          ],
+          "login": [
+            {
+              "url": "https://build.fillout.com/fillout/login",
+              "type": "login",
+              "etv": 248,
+              "keywords": 2
+            },
+            {
+              "url": "https://www.fillout.com/templates/categories/signup",
+              "type": "login",
+              "etv": 23,
+              "keywords": 2
+            },
+            {
+              "url": "https://www.fillout.com/templates/parent-teacher-association-signup",
+              "type": "login",
+              "etv": 14,
+              "keywords": 1
+            }
+          ],
+          "help docs": [
+            {
+              "url": "https://www.fillout.com/blog/fillable-forms-with-google-docs",
+              "type": "help docs",
+              "etv": 105,
+              "keywords": 1
+            },
+            {
+              "url": "https://fillout.com/help/table",
+              "type": "help docs",
+              "etv": 53,
+              "keywords": 2
+            },
+            {
+              "url": "https://www.fillout.com/help/form-agent",
+              "type": "help docs",
+              "etv": 18,
+              "keywords": 1
+            },
+            {
+              "url": "https://fillout.com/help/copy-paste-fields",
+              "type": "help docs",
+              "etv": 5,
+              "keywords": 1
+            }
+          ],
+          "other pages": [
+            {
+              "url": "https://www.fillout.com/google-forms-customizer/add-radio-button-to-google-forms",
+              "type": "other pages",
+              "etv": 130,
+              "keywords": 4
+            },
+            {
+              "url": "https://www.fillout.com/pdf-to-form",
+              "type": "other pages",
+              "etv": 68,
+              "keywords": 10
+            },
+            {
+              "url": "https://www.fillout.com/google-forms-customizer/add-likert-scale-to-google-forms",
+              "type": "other pages",
+              "etv": 18,
+              "keywords": 2
+            },
+            {
+              "url": "https://www.fillout.com/quiz-gpt",
+              "type": "other pages",
+              "etv": 13,
+              "keywords": 2
+            },
+            {
+              "url": "https://www.fillout.com/brand",
+              "type": "other pages",
+              "etv": 13,
+              "keywords": 1
+            }
+          ],
+          "guides and blog": [
+            {
+              "url": "https://www.fillout.com/blog/what-is-servicenow",
+              "type": "guides and blog",
+              "etv": 50,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.fillout.com/blog/create-a-google-calendar-booking-page",
+              "type": "guides and blog",
+              "etv": 36,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.fillout.com/blog/best-google-forms-add-ons",
+              "type": "guides and blog",
+              "etv": 35,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.fillout.com/blog/order-form-examples",
+              "type": "guides and blog",
+              "etv": 34,
+              "keywords": 1
+            },
+            {
+              "url": "https://www.fillout.com/blog/recruiting-intake-form",
+              "type": "guides and blog",
+              "etv": 19,
+              "keywords": 1
+            }
+          ],
+          "pricing": [
+            {
+              "url": "https://www.fillout.com/pricing",
+              "type": "pricing",
+              "etv": 37,
+              "keywords": 2
+            }
+          ],
+          "comparison": [
+            {
+              "url": "https://www.fillout.com/vs/typeform",
+              "type": "comparison",
+              "etv": 30,
+              "keywords": 4
+            },
+            {
+              "url": "https://www.fillout.com/vs/jotform",
+              "type": "comparison",
+              "etv": 8,
+              "keywords": 1
+            }
+          ]
+        },
+        "pages_count_by_type": {
+          "free tools": 4,
+          "product pages": 1,
+          "home page": 2,
+          "templates": 47,
+          "login": 3,
+          "help docs": 4,
+          "other pages": 8,
+          "guides and blog": 8,
+          "pricing": 1,
+          "comparison": 2
+        }
+      },
+      "ads": {
+        "active_ads": 18,
+        "running_30_days": 0,
+        "oldest": {
+          "started": "2026-11-10",
+          "days": 15,
+          "text": "Your form is the first thing customers interact with. Make it unforgettable. Fillout helps you capture more customers with beautiful, respon",
+          "url": "https://www.facebook.com/ads/library?id=1666260408399930"
+        }
+      },
+      "x": {
+        "posts": 8,
+        "median_views": 944,
+        "top": {
+          "views": 1436,
+          "likes": 7,
+          "date": "2026-07-08",
+          "text": "Introducing the Fillout Agent",
+          "url": "https://x.com/fillout/status/2074872843461181888"
+        },
+        "first": "2025-12-31",
+        "last": "2026-07-08",
+        "last_post": "2026-07-08"
+      },
+      "x_handle": "fillout",
+      "linkedin": null,
+      "linkedin_url": null,
+      "ai": {
+        "asked": 3,
+        "named_in": [
+          "What is the best online form builder?",
+          "What are the best alternatives to Youform?",
+          "What is the best online form builder for small businesses?"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "domain": "jotform.com",
+      "brand": "jotform",
+      "shared_searches": 1065,
+      "ai_named": 3
+    },
+    {
+      "domain": "typeform.com",
+      "brand": "typeform",
+      "shared_searches": 887,
+      "ai_named": 3
+    },
+    {
+      "domain": "fillout.com",
+      "brand": "fillout",
+      "shared_searches": 444,
+      "ai_named": 3
+    },
+    {
+      "domain": "forms.app",
+      "brand": "forms",
+      "shared_searches": 707,
+      "ai_named": 0
+    },
+    {
+      "domain": "surveymonkey.com",
+      "brand": "surveymonkey",
+      "shared_searches": 671,
+      "ai_named": 0
+    },
+    {
+      "domain": "123formbuilder.com",
+      "brand": "123formbuilder",
+      "shared_searches": 561,
+      "ai_named": 0
+    },
+    {
+      "domain": "aidaform.com",
+      "brand": "aidaform",
+      "shared_searches": 467,
+      "ai_named": 0
+    },
+    {
+      "domain": "formpl.us",
+      "brand": "formpl",
+      "shared_searches": 448,
+      "ai_named": 0
+    },
+    {
+      "domain": "surveysparrow.com",
+      "brand": "surveysparrow",
+      "shared_searches": 409,
+      "ai_named": 0
+    },
+    {
+      "domain": "mentimeter.com",
+      "brand": "mentimeter",
+      "shared_searches": 400,
+      "ai_named": 0
+    },
+    {
+      "domain": "questionpro.com",
+      "brand": "questionpro",
+      "shared_searches": 387,
+      "ai_named": 0
+    },
+    {
+      "domain": "formester.com",
+      "brand": "formester",
+      "shared_searches": 366,
+      "ai_named": 0
+    }
+  ],
+  "ai": [
+    {
+      "question": "What is the best online form builder?",
+      "named": [
+        "jotform",
+        "fillout",
+        "typeform"
+      ],
+      "other_brands": [
+        "Jotform",
+        "Typeform",
+        "Tally",
+        "Fillout",
+        "Google Forms"
+      ]
+    },
+    {
+      "question": "What are the best alternatives to Youform?",
+      "named": [
+        "typeform",
+        "fillout",
+        "jotform"
+      ],
+      "other_brands": [
+        "Tally",
+        "Fillout",
+        "Typeform",
+        "Jotform",
+        "Paperform",
+        "Cognito Forms",
+        "Google Forms"
+      ]
+    },
+    {
+      "question": "What is the best online form builder for small businesses?",
+      "named": [
+        "jotform",
+        "typeform",
+        "fillout"
+      ],
+      "other_brands": [
+        "Jotform",
+        "Typeform",
+        "Tally",
+        "Paperform",
+        "Fillout",
+        "Google Forms"
+      ]
+    }
+  ],
+  "moves": [
+    {
+      "id": "ai_answers",
+      "name": "Getting named in ChatGPT answers",
+      "test": "ChatGPT names the company in at least one of the three buyer questions we asked.",
+      "threshold": 1,
+      "effort": 2,
+      "needs": {
+        "team": 1,
+        "budget": 0
+      },
+      "needs_text": "one person who can write and pitch",
+      "meaning": "More buyers now ask ChatGPT for a shortlist before they ever visit Google. If you are not named, you are not on the shortlist.",
+      "this_week": "Ask ChatGPT the three questions below yourself. Look at the pages it cites, then pitch each one to include you, and publish a page that answers the question directly.",
+      "order": 9,
+      "competitors": [
+        {
+          "domain": "jotform.com",
+          "shows": true,
+          "known": true,
+          "proof": "Named by ChatGPT in 3 of 3 buyer questions: \"What is the best online form builder?\"; \"What are the best alternatives to Youform?\"; \"What is the best online form builder for small businesses?\".",
+          "used": [
+            "ai_answer"
+          ],
+          "strength": 3
+        },
+        {
+          "domain": "typeform.com",
+          "shows": true,
+          "known": true,
+          "proof": "Named by ChatGPT in 3 of 3 buyer questions: \"What is the best online form builder?\"; \"What are the best alternatives to Youform?\"; \"What is the best online form builder for small businesses?\".",
+          "used": [
+            "ai_answer"
+          ],
+          "strength": 3
+        },
+        {
+          "domain": "fillout.com",
+          "shows": true,
+          "known": true,
+          "proof": "Named by ChatGPT in 3 of 3 buyer questions: \"What is the best online form builder?\"; \"What are the best alternatives to Youform?\"; \"What is the best online form builder for small businesses?\".",
+          "used": [
+            "ai_answer"
+          ],
+          "strength": 3
+        }
+      ],
+      "count": 3,
+      "kind": "new",
+      "you": {
+        "shows": false,
+        "proof": "Named by ChatGPT in 0 of 3 buyer questions.",
+        "strength": 0
+      },
+      "fits": true
+    },
+    {
+      "id": "free_tools",
+      "name": "Free tools and templates that catch searches",
+      "test": "At least 15% of the search visits we sampled land on free tool or template pages.",
+      "threshold": 15,
+      "effort": 2,
+      "needs": {
+        "team": 2,
+        "budget": 0
+      },
+      "needs_text": "someone who can build a simple web page",
+      "meaning": "Buyers rarely search for your product. They search for a small job they need done today. A free page that does that job gets found, and some of those people need you next.",
+      "this_week": "List five small tasks your buyers search for right before they need you. Build the easiest one as a free page with no login.",
+      "order": 0,
+      "competitors": [
+        {
+          "domain": "jotform.com",
+          "shows": true,
+          "known": true,
+          "proof": "52.4% of the search visits we sampled land on free tool and template pages. Top one: https://www.jotform.com/qr-code-generator/ (about 17,309 visits a month).",
+          "used": [
+            "ranked"
+          ],
+          "strength": 52.400000000000006
+        },
+        {
+          "domain": "typeform.com",
+          "shows": false,
+          "known": true,
+          "proof": "5.1% of the search visits we sampled land on free tool and template pages. Top one: https://www.typeform.com/templates-sub-category/job-application (about 2,752 visits a month).",
+          "used": [
+            "ranked"
+          ],
+          "strength": 5.1
+        },
+        {
+          "domain": "fillout.com",
+          "shows": true,
+          "known": true,
+          "proof": "52.9% of the search visits we sampled land on free tool and template pages. Top one: https://www.fillout.com/ai-quiz-maker (about 1,131 visits a month).",
+          "used": [
+            "ranked"
+          ],
+          "strength": 52.9
+        }
+      ],
+      "count": 2,
+      "kind": "new",
+      "you": {
+        "shows": false,
+        "proof": "10.7% of the search visits we sampled land on free tool and template pages. Top one: https://youform.com/free-tools/google-form-qr-code/ (about 307 visits a month).",
+        "strength": 10.7
+      },
+      "fits": true
+    }
+  ],
+  "already": [],
+  "left_out": [
+    {
+      "id": "user_pages",
+      "name": "Public pages your users make, on your domain",
+      "test": "At least 3% of sampled search visits land on pages customers made with the product (public forms, pages or profiles) that live on the company's own domain.",
+      "threshold": 3,
+      "effort": 3,
+      "needs": {
+        "team": 2,
+        "budget": 0
+      },
+      "needs_text": "a product change, so someone who can build it",
+      "meaning": "Every public page a customer makes is a new page on your domain that Google can find. The product writes your search pages for you, and each visitor sees your product working.",
+      "this_week": "Check whether the pages your users publish live on your domain and can be found by Google. If they are hidden or on another domain, write up what it would take to change that, and add a small 'Made with' link to each one.",
+      "order": 1,
+      "competitors": [
+        {
+          "domain": "jotform.com",
+          "shows": true,
+          "known": true,
+          "proof": "12.8% of the search visits we sampled land on pages its users made. Top one: https://render.jotform.com/262134348777061.",
+          "used": [
+            "ranked"
+          ],
+          "strength": 12.8
+        },
+        {
+          "domain": "typeform.com",
+          "shows": false,
+          "known": true,
+          "proof": "1.8% of the search visits we sampled land on pages its users made. Top one: https://0z0g1.typeform.com/to/cVMXbdhw.",
+          "used": [
+            "ranked"
+          ],
+          "strength": 1.8
+        },
+        {
+          "domain": "fillout.com",
+          "shows": false,
+          "known": true,
+          "proof": "0% of the search visits we sampled land on pages its users made.",
+          "used": [
+            "ranked"
+          ],
+          "strength": 0
+        }
+      ],
+      "count": 1,
+      "kind": "new",
+      "you": {
+        "shows": false,
+        "proof": "0% of the search visits we sampled land on pages its users made.",
+        "strength": 0
+      },
+      "fits": true,
+      "why": "Only one of the three competitors does this, so it may be a one-off."
+    },
+    {
+      "id": "comparison",
+      "name": "Comparison and alternative pages",
+      "test": "Three or more comparison pages ('X alternatives', 'X vs Y') bring in search visits.",
+      "threshold": 3,
+      "effort": 1,
+      "needs": {
+        "team": 1,
+        "budget": 0
+      },
+      "needs_text": "one person who can write",
+      "meaning": "People who search for alternatives to a product are already shopping. A fair comparison page meets them at the moment they are choosing.",
+      "this_week": "Write one honest page: '[Biggest competitor] alternatives', with a table of where you are better and where you are not.",
+      "order": 2,
+      "competitors": [
+        {
+          "domain": "jotform.com",
+          "shows": true,
+          "known": true,
+          "proof": "3 comparison pages rank in Google, bringing about 5,913 visits a month. Top one: https://www.jotform.com/formstack-alternative/?acc=main&adgroup=164991406238&matchtype=p&network=g&device=c&devicemodel=&extension_id=&feeditemid=&target_id=kwd-23647877848&target=&loc_interest=&loc_physical=2840&placement=&utm_source=adwords&utm_campaign=21433268312&utm_medium=cpc&utm_term=formstack&utm_content=704557186255&utm_scp=&utm_cgroup=&gad_source=1&gad_campaignid=21433268312&gbraid=0AAAAAC-d9ak7FCsoat3olBxj4GpumYPJ-&gclid=EAIaIQobChMI_qu04Jz0lwMVTJaDBx2EjB4YEAAYAiAAEgKOQ_D_BwE.",
+          "used": [
+            "ranked"
+          ],
+          "strength": 3
+        },
+        {
+          "domain": "typeform.com",
+          "shows": false,
+          "known": true,
+          "proof": "0 comparison pages rank in Google.",
+          "used": [
+            "ranked"
+          ],
+          "strength": 0
+        },
+        {
+          "domain": "fillout.com",
+          "shows": false,
+          "known": true,
+          "proof": "2 comparison pages rank in Google, bringing about 38 visits a month. Top one: https://www.fillout.com/vs/typeform.",
+          "used": [
+            "ranked"
+          ],
+          "strength": 2
+        }
+      ],
+      "count": 1,
+      "kind": "new",
+      "you": {
+        "shows": false,
+        "proof": "1 comparison pages rank in Google, bringing about 34 visits a month. Top one: https://youform.com/fillout-alternative/.",
+        "strength": 1
+      },
+      "fits": true,
+      "why": "Only one of the three competitors does this, so it may be a one-off."
+    },
+    {
+      "id": "guides",
+      "name": "Guides that answer buyer questions",
+      "test": "At least 20% of sampled search visits land on guides or blog posts.",
+      "threshold": 20,
+      "effort": 2,
+      "needs": {
+        "team": 1,
+        "budget": 0
+      },
+      "needs_text": "one person who can write every week",
+      "meaning": "Steady search traffic comes from answering the questions buyers type into Google, one page per question.",
+      "this_week": "Take the three questions your sales calls hear most. Turn the best answer into a guide page.",
+      "order": 3,
+      "competitors": [
+        {
+          "domain": "jotform.com",
+          "shows": false,
+          "known": true,
+          "proof": "7.7% of the search visits we sampled land on guide and blog pages. Top one: https://www.jotform.com/products/sign/what-is-docusign-and-how-does-it-work/.",
+          "used": [
+            "ranked"
+          ],
+          "strength": 7.7
+        },
+        {
+          "domain": "typeform.com",
+          "shows": true,
+          "known": true,
+          "proof": "75.1% of the search visits we sampled land on guide and blog pages. Top one: https://www.typeform.com/blog/what-is-a-dichotomous-question-examples-and-when-to-ask-one.",
+          "used": [
+            "ranked"
+          ],
+          "strength": 75.1
+        },
+        {
+          "domain": "fillout.com",
+          "shows": false,
+          "known": true,
+          "proof": "3.8% of the search visits we sampled land on guide and blog pages. Top one: https://www.fillout.com/blog/what-is-servicenow.",
+          "used": [
+            "ranked"
+          ],
+          "strength": 3.8
+        }
+      ],
+      "count": 1,
+      "kind": "new",
+      "you": {
+        "shows": false,
+        "proof": "1.9% of the search visits we sampled land on guide and blog pages. Top one: https://youform.com/blog/google-forms-searchable-dropdown-cm0qnsmvn00j0syrxh9idh8f2/.",
+        "strength": 1.9
+      },
+      "fits": true,
+      "why": "Only one of the three competitors does this, so it may be a one-off."
+    },
+    {
+      "id": "long_ads",
+      "name": "Meta ads they keep running",
+      "test": "Three or more Meta ads have been running for 30 days or longer. Ads that run for months are the ones that pay back.",
+      "threshold": 3,
+      "effort": 2,
+      "needs": {
+        "team": 1,
+        "budget": 1000
+      },
+      "needs_text": "about $1,000 a month to test ads",
+      "meaning": "Companies switch off ads that lose money. An ad still running after a month or more is the closest public proof of an ad that works.",
+      "this_week": "Open the competitors' oldest ads (links below). Write down the hook, the offer and the format, then draft two ads of your own in the same shape.",
+      "order": 5,
+      "competitors": [
+        {
+          "domain": "jotform.com",
+          "shows": true,
+          "known": true,
+          "proof": "30+ active Meta ads, 10 of them running 30 days or more. The oldest started 2026-06-11 (167 days ago): \"Comment AI for the link to automate your Instagram for FREE. DMs, Posts, Stories and Comments handled automatically so creators can make sal\".",
+          "used": [
+            "meta_ads"
+          ],
+          "strength": 10
+        },
+        {
+          "domain": "typeform.com",
+          "shows": true,
+          "known": true,
+          "proof": "30+ active Meta ads, 16 of them running 30 days or more. The oldest started 2026-09-22 (64 days ago): \"Capture, engage, and convert customers through automated workflows. All in Typeform.\".",
+          "used": [
+            "meta_ads"
+          ],
+          "strength": 16
+        },
+        {
+          "domain": "fillout.com",
+          "shows": false,
+          "known": true,
+          "proof": "18 active Meta ads, 0 of them running 30 days or more. The oldest started 2026-11-10 (15 days ago): \"Your form is the first thing customers interact with. Make it unforgettable. Fillout helps you capture more customers with beautiful, respon\".",
+          "used": [
+            "meta_ads"
+          ],
+          "strength": 0
+        }
+      ],
+      "count": 2,
+      "kind": "new",
+      "you": {
+        "shows": false,
+        "proof": "No active ads found in the Meta Ad Library.",
+        "strength": 0
+      },
+      "fits": false,
+      "why": "It needs about $1,000 a month to test ads, which is more than the team and budget you gave."
+    }
+  ],
+  "bill": {
+    "ai__what-are-the-best-alternatives-to-youform": {
+      "kind": "ai_answer",
+      "provider": "DataForSEO",
+      "usd": 0.004,
+      "what": "ChatGPT's answer to \"What are the best alternatives to Youform?\""
+    },
+    "ai__what-is-the-best-online-form-builder": {
+      "kind": "ai_answer",
+      "provider": "DataForSEO",
+      "usd": 0.004,
+      "what": "ChatGPT's answer to \"What is the best online form builder?\""
+    },
+    "ai__what-is-the-best-online-form-builder-for-small-businesses": {
+      "kind": "ai_answer",
+      "provider": "DataForSEO",
+      "usd": 0.004,
+      "what": "ChatGPT's answer to \"What is the best online form builder for small businesses?\""
+    },
+    "competitors__youform-com": {
+      "kind": "competitors",
+      "provider": "DataForSEO",
+      "usd": 0.0144,
+      "what": "Sites that rank for the same Google searches as youform.com (US)"
+    },
+    "linkedin__jotform": {
+      "kind": "linkedin_posts",
+      "provider": "ScrapeCreators",
+      "usd": 0.00188,
+      "what": "Recent posts from the LinkedIn page https://www.linkedin.com/company/jotform"
+    },
+    "linkedin__typeform": {
+      "kind": "linkedin_posts",
+      "provider": "ScrapeCreators",
+      "usd": 0.00188,
+      "what": "Recent posts from the LinkedIn page https://www.linkedin.com/company/typeform-/"
+    },
+    "linkedin__youform-com": {
+      "kind": "linkedin_posts",
+      "provider": "ScrapeCreators",
+      "usd": 0.00188,
+      "what": "Recent posts from the LinkedIn page https://www.linkedin.com/company/youform.com/"
+    },
+    "meta__fillout": {
+      "kind": "meta_ads",
+      "provider": "ScrapeCreators",
+      "usd": 0.00188,
+      "what": "Active ads in the Meta Ad Library for Fillout"
+    },
+    "meta__jotform": {
+      "kind": "meta_ads",
+      "provider": "ScrapeCreators",
+      "usd": 0.00188,
+      "what": "Active ads in the Meta Ad Library for Jotform"
+    },
+    "meta__typeform": {
+      "kind": "meta_ads",
+      "provider": "ScrapeCreators",
+      "usd": 0.00188,
+      "what": "Active ads in the Meta Ad Library for Typeform"
+    },
+    "meta__youform": {
+      "kind": "meta_ads",
+      "provider": "ScrapeCreators",
+      "usd": 0.00188,
+      "what": "Active ads in the Meta Ad Library for Youform"
+    },
+    "ranked__fillout-com": {
+      "kind": "ranked",
+      "provider": "DataForSEO",
+      "usd": 0.036,
+      "what": "Top 200 Google keywords fillout.com ranks for (US), by estimated visits"
+    },
+    "ranked__jotform-com": {
+      "kind": "ranked",
+      "provider": "DataForSEO",
+      "usd": 0.036,
+      "what": "Top 200 Google keywords jotform.com ranks for (US), by estimated visits"
+    },
+    "ranked__typeform-com": {
+      "kind": "ranked",
+      "provider": "DataForSEO",
+      "usd": 0.036,
+      "what": "Top 200 Google keywords typeform.com ranks for (US), by estimated visits"
+    },
+    "ranked__youform-com": {
+      "kind": "ranked",
+      "provider": "DataForSEO",
+      "usd": 0.036,
+      "what": "Top 200 Google keywords youform.com ranks for (US), by estimated visits"
+    },
+    "site__fillout-com": {
+      "kind": "site",
+      "provider": "DataForSEO",
+      "usd": 0.012,
+      "what": "Website details and technologies for fillout.com"
+    },
+    "site__jotform-com": {
+      "kind": "site",
+      "provider": "DataForSEO",
+      "usd": 0.012,
+      "what": "Website details and technologies for jotform.com"
+    },
+    "site__typeform-com": {
+      "kind": "site",
+      "provider": "DataForSEO",
+      "usd": 0.012,
+      "what": "Website details and technologies for typeform.com"
+    },
+    "site__youform-com": {
+      "kind": "site",
+      "provider": "DataForSEO",
+      "usd": 0.012,
+      "what": "Website details and technologies for youform.com"
+    },
+    "x__fillout": {
+      "kind": "x_posts",
+      "provider": "ScrapeCreators",
+      "usd": 0.00188,
+      "what": "Recent posts from @fillout on X"
+    },
+    "x__jotform": {
+      "kind": "x_posts",
+      "provider": "ScrapeCreators",
+      "usd": 0.00188,
+      "what": "Recent posts from @jotform on X"
+    },
+    "x__typeform": {
+      "kind": "x_posts",
+      "provider": "ScrapeCreators",
+      "usd": 0.00188,
+      "what": "Recent posts from @typeform on X"
+    }
+  },
+  "spent": 0.2372,
+  "limit": 0.5,
+  "skipped": []
+}

@@ -1,0 +1,134 @@
+{
+  "ai__what-are-the-best-alternatives-to-tally": {
+    "kind": "ai_answer",
+    "provider": "DataForSEO",
+    "usd": 0.004,
+    "what": "ChatGPT's answer to \"What are the best alternatives to Tally?\""
+  },
+  "ai__what-is-the-best-online-form-builder": {
+    "kind": "ai_answer",
+    "provider": "DataForSEO",
+    "usd": 0.004,
+    "what": "ChatGPT's answer to \"What is the best online form builder?\""
+  },
+  "ai__what-is-the-best-online-form-builder-for-startups-and-small-": {
+    "kind": "ai_answer",
+    "provider": "DataForSEO",
+    "usd": 0.004,
+    "what": "ChatGPT's answer to \"What is the best online form builder for startups and small teams?\""
+  },
+  "competitors__tally-so": {
+    "kind": "competitors",
+    "provider": "DataForSEO",
+    "usd": 0.0144,
+    "what": "Sites that rank for the same Google searches as tally.so (US)"
+  },
+  "linkedin__jotform": {
+    "kind": "linkedin_posts",
+    "provider": "ScrapeCreators",
+    "usd": 0.00188,
+    "what": "Recent posts from the LinkedIn page https://www.linkedin.com/company/jotform"
+  },
+  "linkedin__typeform": {
+    "kind": "linkedin_posts",
+    "provider": "ScrapeCreators",
+    "usd": 0.00188,
+    "what": "Recent posts from the LinkedIn page https://www.linkedin.com/company/typeform-/"
+  },
+  "meta__fillout": {
+    "kind": "meta_ads",
+    "provider": "ScrapeCreators",
+    "usd": 0.00188,
+    "what": "Active ads in the Meta Ad Library for Fillout"
+  },
+  "meta__jotform": {
+    "kind": "meta_ads",
+    "provider": "ScrapeCreators",
+    "usd": 0.00188,
+    "what": "Active ads in the Meta Ad Library for Jotform"
+  },
+  "meta__tally": {
+    "kind": "meta_ads",
+    "provider": "ScrapeCreators",
+    "usd": 0.00188,
+    "what": "Active ads in the Meta Ad Library for Tally"
+  },
+  "meta__typeform": {
+    "kind": "meta_ads",
+    "provider": "ScrapeCreators",
+    "usd": 0.00188,
+    "what": "Active ads in the Meta Ad Library for Typeform"
+  },
+  "ranked__fillout-com": {
+    "kind": "ranked",
+    "provider": "DataForSEO",
+    "usd": 0.036,
+    "what": "Top 200 Google keywords fillout.com ranks for (US), by estimated visits"
+  },
+  "ranked__jotform-com": {
+    "kind": "ranked",
+    "provider": "DataForSEO",
+    "usd": 0.036,
+    "what": "Top 200 Google keywords jotform.com ranks for (US), by estimated visits"
+  },
+  "ranked__tally-so": {
+    "kind": "ranked",
+    "provider": "DataForSEO",
+    "usd": 0.036,
+    "what": "Top 200 Google keywords tally.so ranks for (US), by estimated visits"
+  },
+  "ranked__typeform-com": {
+    "kind": "ranked",
+    "provider": "DataForSEO",
+    "usd": 0.036,
+    "what": "Top 200 Google keywords typeform.com ranks for (US), by estimated visits"
+  },
+  "site__fillout-com": {
+    "kind": "site",
+    "provider": "DataForSEO",
+    "usd": 0.012,
+    "what": "Website details and technologies for fillout.com"
+  },
+  "site__jotform-com": {
+    "kind": "site",
+    "provider": "DataForSEO",
+    "usd": 0.012,
+    "what": "Website details and technologies for jotform.com"
+  },
+  "site__tally-so": {
+    "kind": "site",
+    "provider": "DataForSEO",
+    "usd": 0.012,
+    "what": "Website details and technologies for tally.so"
+  },
+  "site__typeform-com": {
+    "kind": "site",
+    "provider": "DataForSEO",
+    "usd": 0.012,
+    "what": "Website details and technologies for typeform.com"
+  },
+  "x__fillout": {
+    "kind": "x_posts",
+    "provider": "ScrapeCreators",
+    "usd": 0.00188,
+    "what": "Recent posts from @fillout on X"
+  },
+  "x__jotform": {
+    "kind": "x_posts",
+    "provider": "ScrapeCreators",
+    "usd": 0.00188,
+    "what": "Recent posts from @jotform on X"
+  },
+  "x__tallyforms": {
+    "kind": "x_posts",
+    "provider": "ScrapeCreators",
+    "usd": 0.00188,
+    "what": "Recent posts from @TallyForms on X"
+  },
+  "x__typeform": {
+    "kind": "x_posts",
+    "provider": "ScrapeCreators",
+    "usd": 0.00188,
+    "what": "Recent posts from @typeform on X"
+  }
+}
